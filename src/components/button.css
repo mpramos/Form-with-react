@@ -1,0 +1,15 @@
+
+button{
+    font-family: 'Roboto', sans-serif;
+    background: -webkit-linear-gradient(to right, #B06AB3, #4568DC);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #B06AB3, #4568DC);
+    border : none;
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    color:white ;
+    height: 40px;
+    font-family: 16px;
+    cursor: pointer;
+}
